@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=adragon&show_icons=true)
