@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ...
+- 😄 Pronouns: ADargon
+- ⚡ Fun fact:  Standing on the shoulders of giants
 <!--
 **adragonqaq/adragonqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adragonqaq)
 
-![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=adragonqaq&theme=dracula)
+
